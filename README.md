@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Liven11
-- 👀 I’m interested in ...Frontend developer
-- 🌱 I’m currently learning ...full stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Frontend developer and Mobile App developer
 - 📫 How to reach me ...livedangi05@gmail.com
 
 <!---
